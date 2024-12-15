@@ -1,3 +1,14 @@
+/* Estilo general */
+body {
+    font-family: 'outfit';
+    background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+    margin: 0;
+    padding: 0;
+    color: #333;
+    min-height: 100vh;  /* Asegura que el body ocupe todo el alto de la pantalla */
+    display: flex;
+    flex-direction: column;
+}
 .history-content{
     font-family: 'outfit';
     margin: 50px 0;
